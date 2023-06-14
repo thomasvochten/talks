@@ -10,6 +10,7 @@ This is where I publish the public resources for my talks and workshops, such as
 - [A primer on using git and GitHub](git-github/README.md)
 - [Monitoring Microsoft 365 security with Microsoft Sentinel](m365-sentinel/README.md)
 - [Developing secure software with GitHub](devsec-github/README.md)
+- [Using the Microsoft Graph for the reluctant IT Pro](msgraph-itpro/README.md)
 
 ## 📅 Upcoming talks
 
