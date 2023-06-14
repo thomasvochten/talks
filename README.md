@@ -11,6 +11,7 @@ This is where I publish the public resources for my talks and workshops, such as
 - [Monitoring Microsoft 365 security with Microsoft Sentinel](m365-sentinel/README.md)
 - [Developing secure software with GitHub](devsec-github/README.md)
 - [Using the Microsoft Graph for the reluctant IT Pro](msgraph-itpro/README.md)
+- [Automating administrative tasks in Microsoft 365](automation-itpro/README.md)
 
 ## 📅 Upcoming talks
 
