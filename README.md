@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About this repository
 
-This is where I publish the public resources for my talks and workshops, such as slides, sample code, and other resources.
+This is where I publish the public resources for my talks and workshops, such as slides, sample code, and other resources. This repository contains materials from 2022 onwards - contact me if you need older stuff.
 
 ## ⌚ Recently added
 
