@@ -16,3 +16,4 @@ This talk has been presented at the following events:
 - [Experts Live Netherlands 2022](https://expertslive.nl/), September 30, 's-Hertogenbosch (Netherlands)
 - [European Cloud Summit 2022](https://cloudsummit.eu/), September 26-28, Mainz (Germany)
 - [PowerShell Conference Europe 2022](https://psconf.eu/), June 20-23, Vienna (Austria)
+- [European Power Platform Conference 2022](https://www.sharepointeurope.com/european-power-platform-conference/), April 6-8, Berlin (Germany)
