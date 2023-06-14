@@ -16,5 +16,3 @@ This talk has been presented at the following events:
 - [European Collaboration Summit 2023](https://collabsummit.eu/), May 22-24, Düsseldorf (Germany)
 - [Thrive IT Conference 2023](https://thriveconf.com/), May 30-31, Lipica (Slovenia)
 - [CollabDays Netherlands 2023](https://www.collabdays.org/2023-nl/), June 10, Vianen (The Netherlands)
-
-
