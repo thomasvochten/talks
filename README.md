@@ -1,4 +1,4 @@
-# Slides, demos and resources
+![Thomas Vochten](assets/talks.png)
 
 ## About this repository
 
