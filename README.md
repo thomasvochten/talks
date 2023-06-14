@@ -9,6 +9,7 @@ This is where I publish the public resources for my talks and workshops, such as
 - [Microsoft 365 Infrastructure-as-Code](m365-infrastructure-as-code/README.md)
 - [A primer on using git and GitHub](git-github/README.md)
 - [Monitoring Microsoft 365 security with Microsoft Sentinel](m365-sentinel/README.md)
+- [Developing secure software with GitHub](devsec-github/README.md)
 
 ## 📅 Upcoming talks
 
