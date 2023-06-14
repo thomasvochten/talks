@@ -12,7 +12,7 @@ This is where I publish the public resources for my talks and workshops, such as
 - [Developing secure software with GitHub](devsec-github/README.md)
 - [Using the Microsoft Graph for the reluctant IT Pro](msgraph-itpro/README.md)
 - [Automating administrative tasks in Microsoft 365](automation-itpro/README.md)
-
+- [Provisioning Microsoft Teams | Beyond the next-next-finish](teamsprov-itpro/README.md)
 ## 📅 Upcoming talks
 
 For an overview of all previous and upcoming talks, see [my website](https://thomasvochten.com/speaking).
