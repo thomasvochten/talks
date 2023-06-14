@@ -1,4 +1,4 @@
-![Thomas Vochten](assets/talks.png)
+![Thomas Vochten](README.png)
 
 ## 🧑‍💻 About this repository
 
