@@ -1,4 +1,4 @@
-![Microsoft 365 Infrastructure-as-Code](m365-infrastructure-as-code.png)
+![A primer on using git and GitHub](git-github.png)
 
 ## Abstract
 
