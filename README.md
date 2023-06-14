@@ -4,6 +4,10 @@
 
 This is where I publish the public resources for my talks and workshops, such as slides, sample code, and other resources.
 
+## ⌚ Recently added
+
+- [Microsoft 365 Infrastructure-as-Code](m365-infrastructure-as-code/README.md)
+
 ## 📅 Upcoming talks
 
 For an overview of all previous and upcoming talks, see [my website](https://thomasvochten.com/speaking).
