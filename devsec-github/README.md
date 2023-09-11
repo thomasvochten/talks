@@ -15,3 +15,4 @@ This session is co-presented with [Laura Kokkarinen](https://laurakokkarinen.com
 This talk has been presented at the following events:
 
 - [European Collaboration Summit 2023](https://collabsummit.eu/), May 22-24, Düsseldorf (Germany)
+- [CollabDays Finland 2023](https://www.collabdays.org/2023-finland/), September 9, Helsinki (Finland)
