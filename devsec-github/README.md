@@ -17,3 +17,4 @@ This talk has been presented at the following events:
 - [European Collaboration Summit 2023](https://collabsummit.eu/), May 22-24, Düsseldorf (Germany)
 - [CollabDays Finland 2023](https://www.collabdays.org/2023-finland/), September 9, Helsinki (Finland)
 - [ESPC 2023](https://www.sharepointeurope.com/), November 27-30, Amsterdam (Netherlands)
+- [NDC Security 2024](https://ndc-security.com/), January 10-11, Oslo (Norway)
