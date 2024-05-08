@@ -14,3 +14,4 @@ Microsoft 365 lets you work with external users in different apps and services. 
 This talk has been presented at the following events:
 
 - [MSCOMMUNITY BiH Konferencija 2024](https://konferencija.mscommunity.ba/), April 19, Konjic (Bosnia and Herzegovina)
+- [Techorama 2024](https://techorama.be), May 07-08, Antwerp (Belgium)
