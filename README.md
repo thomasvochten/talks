@@ -6,7 +6,7 @@ This is where I publish the public resources for my talks and workshops, such as
 
 ## ⌚ Recently added
 
-- [Microsoft 365 tenant setup & configuration. Been there, done that?](m365-tenantsetup/README.md)
+- [Microsoft 365 tenant setup & configuration. Been there, done that?](m365-tenantconfig/README.md)
 - [Making sense of Microsoft 365 Guest & External Access](m365-guest-ext/README.md)
 - [Managing Microsoft 365 through the command-line](m365-cmdline/README.md)
 - [Microsoft 365 Infrastructure-as-Code](m365-infrastructure-as-code/README.md)
