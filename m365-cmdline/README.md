@@ -13,3 +13,4 @@ Microsoft 365 has many admin centers that let you adjust various settings, but s
 This talk has been presented at the following events:
 
 - [Thrive Conference 2024](https://www.thriveconf.com), May 20-22, Podčetrtek (Slovenia)
+- [European SharePoint, Office 365 & Azure Conference 2024](https://www.sharepointeurope.com/), December 3-5, Stockholm (Sweden)

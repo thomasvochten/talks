@@ -1,5 +1,5 @@
 ![Making sense of Microsoft 365
-Guest & External Access](m365-guest-ext.png)
+Guests & External Access](m365-guest-ext.png)
 
 ## Abstract
 
@@ -16,3 +16,5 @@ This talk has been presented at the following events:
 - [MSCOMMUNITY BiH Konferencija 2024](https://konferencija.mscommunity.ba/), April 19, Konjic (Bosnia and Herzegovina)
 - [Techorama 2024](https://techorama.be), May 07-08, Antwerp (Belgium)
 - [Thrive Conference 2024](https://www.thriveconf.com), May 20-22, Podčetrtek (Slovenia)
+- [CollabDays Finland 2024](https://www.collabdays.org/2024-finland), September 5, Helsinki (Finland)
+- [European SharePoint, Office 365 & Azure Conference 2024](https://www.sharepointeurope.com/), December 3-5, Stockholm (Sweden)
