@@ -22,4 +22,4 @@ For an overview of all previous and upcoming talks, see [my website](https://tho
 
 ## 📧 Contact me
 
-If you have any questions or remarks, feel free to contact me on [Twitter](https://twitter.com/thomasvochten) or [LinkedIn](https://www.linkedin.com/in/thomasvochten/).
+If you have any questions or remarks, feel free to contact me on [BlueSky](https://bsky.app/profile/thomasvochten.com) or [LinkedIn](https://www.linkedin.com/in/thomasvochten/).
