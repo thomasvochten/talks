@@ -6,6 +6,7 @@ This is where I publish the public resources for my talks and workshops, such as
 
 ## ⌚ Recently added
 
+- [Microsoft Sentinel for Developers](sentinel4devs/README.md)
 - [Microsoft 365 tenant setup & configuration. Been there, done that?](m365-tenantconfig/README.md)
 - [Making sense of Microsoft 365 Guest & External Access](m365-guest-ext/README.md)
 - [Managing Microsoft 365 through the command-line](m365-cmdline/README.md)
@@ -16,6 +17,7 @@ This is where I publish the public resources for my talks and workshops, such as
 - [Using the Microsoft Graph for the reluctant IT Pro](msgraph-itpro/README.md)
 - [Automating administrative tasks in Microsoft 365](automation-itpro/README.md)
 - [Provisioning Microsoft Teams | Beyond the next-next-finish](teamsprov-itpro/README.md)
+
 ## 📅 Upcoming talks
 
 For an overview of all previous and upcoming talks, see [my website](https://thomasvochten.com/speaking).
