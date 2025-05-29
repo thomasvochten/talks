@@ -18,3 +18,4 @@ This talk has been presented at the following events:
 - [Thrive Conference 2024](https://www.thriveconf.com), May 20-22, Podčetrtek (Slovenia)
 - [CollabDays Finland 2024](https://www.collabdays.org/2024-finland), September 5, Helsinki (Finland)
 - [European SharePoint, Office 365 & Azure Conference 2024](https://www.sharepointeurope.com/), December 3-5, Stockholm (Sweden)
+- [European Collaboration Summit 2025](https://cloudsummit.eu/), May 26-28, Düsseldorf (Germany)
