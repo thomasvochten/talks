@@ -14,4 +14,4 @@ This session is co-presented with [Laura Kokkarinen](https://laurakokkarinen.com
 
 This talk has been presented at the following events:
 
-- [European AI & Cloud Summit](https://cloudsummit.eu/), May 26-28, Düsseldorf (Germany)
+- [European AI & Cloud Summit 2025](https://cloudsummit.eu/), May 26-28, Düsseldorf (Germany)
