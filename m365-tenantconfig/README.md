@@ -12,4 +12,5 @@ One of the most important steps in your Microsoft 365 journey is setting up and 
 
 This talk has been presented at the following events:
 
-- [ExpertsLive EU](https://www.expertslive.eu/), September 24-25, Budapest (Hungary)
+- [ExpertsLive EU 2024](https://www.expertslive.eu/), September 24-25, Budapest (Hungary)
+- [ExpertsLive NL 2025](https://www.expertslive.nl/), June 3, Nieuwegein (Netherlands)
