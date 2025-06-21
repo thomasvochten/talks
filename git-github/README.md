@@ -12,6 +12,7 @@ The world is driven by open source: software, scripts, documentation and even da
 
 This talk has been presented at the following events:
 
+- [CollabDays Netherlands 2025](https://www.collabdays.org/2025-nl/), June 21, Vianen (Netherlands)
 - [Thrive IT Conference 2023](https://thriveconf.com/), May 30-31, Lipica (Slovenia)
 - [Experts Live Netherlands 2022](https://expertslive.nl/), September 30, 's-Hertogenbosch (Netherlands)
 - [European Cloud Summit 2022](https://cloudsummit.eu/), September 26-28, Mainz (Germany)
