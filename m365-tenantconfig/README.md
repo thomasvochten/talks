@@ -14,3 +14,4 @@ This talk has been presented at the following events:
 
 - [ExpertsLive EU 2024](https://www.expertslive.eu/), September 24-25, Budapest (Hungary)
 - [ExpertsLive NL 2025](https://www.expertslive.nl/), June 3, Nieuwegein (Netherlands)
+- [MC2MC Live](https://mc2mc.be/), September 11, Turnhout (Belgium)
