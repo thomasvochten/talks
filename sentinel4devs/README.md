@@ -14,4 +14,6 @@ This session is co-presented with [Laura Kokkarinen](https://laurakokkarinen.com
 
 This talk has been presented at the following events:
 
+- [CollabDays Belgium 2025](https://www.collabdays.org/2025-belgium/), October 18, Edegem (Belgium)
 - [European AI & Cloud Summit 2025](https://cloudsummit.eu/), May 26-28, Düsseldorf (Germany)
+
